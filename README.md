@@ -1,6 +1,6 @@
 Full stack software engineer and lead with 20 years of experience. Architect, problem-solver, innovator with a systemic and holistic approach. Getting things done and leaving it better than it was found.
 
-### Available for projects
+### 🛠 Available for projects
 
 Leading a team of developers – Hire us for high quality software development services, to build products end-to-end or to contribute in a specific scope.
 The team is strongest in PHP, Symfony, TypeScript, Node.js, React, and their ecosystems
@@ -9,18 +9,3 @@ The team is strongest in PHP, Symfony, TypeScript, Node.js, React, and their eco
 
 - Reach me at [tamas@szigeti.one](mailto:tamas@szigeti.one)
 - Or connect on [LinkedIn](https://www.linkedin.com/in/szigeti/)
-
-<!--
-**TamasSzigeti/TamasSzigeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
