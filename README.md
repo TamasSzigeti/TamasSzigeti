@@ -7,8 +7,8 @@ The team is strongest in PHP, Symfony, TypeScript, Node.js, React, and their eco
 
 ### 💬 Get in touch
 
-- ✉️ Reach me at [tamas@szigeti.one](mailto:tamas@szigeti.one)
-- 💬 Or connect on [LinkedIn](https://www.linkedin.com/in/szigeti/)
+- Reach me at [tamas@szigeti.one](mailto:tamas@szigeti.one)
+- Or connect on [LinkedIn](https://www.linkedin.com/in/szigeti/)
 
 <!--
 **TamasSzigeti/TamasSzigeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
