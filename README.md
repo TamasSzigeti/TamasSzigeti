@@ -1,9 +1,4 @@
-Full stack software engineer and lead with 20+ years of experience. Architect, problem-solver, innovator with a systemic and holistic approach. Getting things done and leaving it better than it was found.
-
-### 🛠 Available for projects
-
-Leading a team of developers – Hire us for high quality software development services, to build products end-to-end or to contribute in a specific scope.
-The team is strongest in PHP, Symfony, TypeScript, Node.js, React, and their ecosystems
+Full stack software engineer and lead with 20+ years of experience.Architect, problem-solver, innovator with a systemic and holistic approach. Getting things done and leaving it better than it was found. Serving the user above all.
 
 ### 💬 Get in touch
 
